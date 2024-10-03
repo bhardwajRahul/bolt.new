@@ -1,4 +1,5 @@
-[![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
+# Bolt
+Welcome to the **Bolt** open-source codebase! This repo provides everything you need to start building **AI-powered software development tools** powered by StackBlitz’s **WebContainer API**. 
 
 # Bolt.new: AI-Powered Full-Stack Web Development in the Browser
 
