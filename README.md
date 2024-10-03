@@ -16,9 +16,7 @@ Claude, v0, etc are incredible- but you can't install packages, run backends or 
   - Deploy to production from chat
   - Share your work via a URL
 
-- **AI with Environment Control**: Unlike traditional dev environments where the AI can only assist in code generation, Bolt.new gives AI models **complete control** over the entire  environment including the filesystem, node server, package manager, terminal, and browser console. This empowers AI agents to handle the entire app lifecycle—from creation to deployment.
-
-Whether you’re an experienced developer, a PM or designer, Bolt.new allows you to build production-grade full-stack applications with ease.
+# Get Started Building with Bolt
 
 Bolt combines the capabilities of AI with sandboxed development environments
 to create a collaborative experience where code can be developed by the
@@ -35,7 +33,9 @@ using [WebContainer API](https://webcontainers.io/api). WebContainers run full-
 stack applications directly in the browser without the cost and security
 concerns of cloud hosted AI agents. WebContainers are interactive and editable,
 and enables Bolt's AI to run code and understand any changes from the user.
-Take a look at how [Bolt integrates with WebContainer API](https://github.com/search?q=repo%3Astackblitz%2Fbolt-oss%20%40webcontainer%2Fapi&type=code).
+Take a look at how [Bolt integrates with WebContainer API](https://github.com/search?q=repo%3Astackblitz%2Fbolt-oss%20%40webcontainer%2Fapi&type=code). 
+
+The [WebContainer API](https://webcontainers.io) is free for personal and open source usage. If you're building an application for commercial usage, you can learn more about our [WebContainer API commercial usage pricing here](https://stackblitz.com/pricing#webcontainer-api).
 
 ### Remix App
 
